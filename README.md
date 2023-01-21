@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahir187
+- 👋 Hi, I’m @Muhammad Tahir
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
